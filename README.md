@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js, Django, React js, Node js**
 
-- 👯 I’m looking to collaborate on [Cuk-Online](https://cuk-online.herokuapp.com/)a school based social Platform.
+- 👯 I’m looking to collaborate on [Cuk-Online](https://cuk-online.herokuapp.com/) a school based social Platform.
 
 - 🤝 I’m looking for help with [Vista Online Shop](vista-online.herokuapp.com)
 
