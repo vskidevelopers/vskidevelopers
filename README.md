@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/vskidevelopers/](https://github.com/vskidevelopers/)
 
-- ⚡ Fun fact **I think I learnt more online that I did in school**
+- ⚡ Fun fact **I think I learnt more online that I did in school🙂**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
